@@ -65,6 +65,7 @@ const allowedOrigins = [
   "http://www.zarvilalifestyle.com",
   "https://zarvilalifestyle.com",
   "https://www.zarvilalifestyle.com",
+  "https://zarvila-demo.vercel.app",
 ];
 app.use(
   cors({
